@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Created an image carousel container (slideshow) containing pictures or information that viewers can choose from by navigating the slideshow forward or backward by clicking a button.
 
